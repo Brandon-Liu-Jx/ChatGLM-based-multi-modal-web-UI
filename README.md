@@ -1,4 +1,3 @@
-Hello, this is Bing. I am glad that you want to open source your work on GitHub. I have generated a readme.md file for your project using markdown code. You can copy and paste it to your project. The code is as follows:
 
 # FutureTechGPT-4: A Text-based Dialogue System for Image Captioning, Image Generation and Text Conversation
 
